@@ -14,6 +14,6 @@
 # Manejo de Excepciones
 ![image](https://github.com/FabioSalgadoB/Challenge_Back_End_Java_Conversor/assets/132460350/7ab1c61c-e83e-4413-963f-f392f1c50a32)
 
-# Uso del converitodr de temperatura
+# Uso del convertidor de temperatura
 ![image](https://github.com/FabioSalgadoB/Challenge_Back_End_Java_Conversor/assets/132460350/3d2ea181-56ec-42c6-8cb0-226a098a3e15)
 
